@@ -1,0 +1,12 @@
+cURL 7.68.0 for Windows 64-bit:
+https://curl.haxx.se/windows/
+
+Make sure you have Git installed first.
+
+To install cURL 7.68.0:
+1. Download and extract the files for curl-7.68.0-win64-mingw.
+2. Open curl-7.68.0-win64-mingw/docs/INSTALL.md on Notepad.
+3. Follow the installation instructions for: Building using vcpkg.
+4. Type ALL of the given commands in the Command Prompt.
+
+Installation should finish in a matter of minutes.
